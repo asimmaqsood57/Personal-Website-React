@@ -7,9 +7,9 @@ import asimCv from "../images/asim.pdf";
 export default function Header() {
   return (
     <nav className="navbar navbar-expand-lg sticky-top navbar-dark bg-primary">
-      <a className="navbar-brand" href="index.html">
+      <Link className="navbar-brand" to="/">
         M.Asim Maqsood
-      </a>
+      </Link>
       <button
         className="navbar-toggler"
         type="button"

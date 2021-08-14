@@ -13,6 +13,10 @@ function App() {
       <Header />
 
       <Switch>
+        <Route exact path="/">
+          <Home />
+        </Route>
+
         <Route path="/about">
           <About />
         </Route>
@@ -21,9 +25,6 @@ function App() {
         </Route>
         <Route path="/contact">
           <Contact />
-        </Route>
-        <Route exact path="/">
-          <Home />
         </Route>
       </Switch>
       <Footer />
