@@ -1,38 +1,123 @@
-.App {
-  text-align: center;
+@import url("https://fonts.googleapis.com/css2?family=Spartan:wght@100;400&display=swap");
+* {
+  padding: 0;
+  margin: 0;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.body {
+  font-family: "Spartan", sans-serif;
+}
+.container-fluid {
+  border: 2px solid white;
+  padding: 0%;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+a {
+  text-decoration: none;
+}
+nav {
+  position: sticky;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+.row {
+  /* margin: 15px; */
+  /* border: 2px solid white; */
+
+  margin: 3rem;
+  padding: 1rem;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+}
+
+.footer {
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.btn {
+  background-color: DodgerBlue;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+/* Darker background on mouse-over */
+.btn:hover {
+  background-color: RoyalBlue;
+}
+
+#more {
+  display: none;
+}
+#more2 {
+  display: none;
+}
+#more3 {
+  display: none;
+}
+.cols {
+  /* display: inline-block; */
+  /* margin: 13px; */
+  /* height: 300px; */
+  padding: 1rem;
+
+  /* border: 2px solid white; */
+}
+
+.whymelist {
+  height: 30px;
+  width: 30px;
+}
+
+.paragraph {
+  margin-top: 1rem;
+}
+.introparent {
+  padding-left: 7rem;
+  padding-top: 3rem;
+}
+.intro {
+  height: 16rem;
+}
+.skillslogos {
+  height: 100px;
+  width: 100px;
+}
+.footerimgicons {
+  width: 25px;
+  height: 25px;
+}
+.center {
+  text-align: center;
+}
+
+.footermyintro {
+  color: white;
+}
+
+.btn {
+  border-radius: 100px;
+}
+
+.footermyintro img {
+  height: 150px;
+  width: 150px;
+
+  border-radius: 5rem;
+}
+
+.facebookbtn {
+  background-color: #4267b2;
+}
+
+.copyright {
+  color: white;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
 }
