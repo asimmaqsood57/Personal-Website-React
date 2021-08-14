@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/asimmaqsood57/Personal-Website-React.git/static/css/main.f526cb9e.chunk.css",
+    "main.js": "/asimmaqsood57/Personal-Website-React.git/static/js/main.81594e76.chunk.js",
+    "main.js.map": "/asimmaqsood57/Personal-Website-React.git/static/js/main.81594e76.chunk.js.map",
+    "runtime-main.js": "/asimmaqsood57/Personal-Website-React.git/static/js/runtime-main.1340557d.js",
+    "runtime-main.js.map": "/asimmaqsood57/Personal-Website-React.git/static/js/runtime-main.1340557d.js.map",
+    "static/js/2.0fcddfbd.chunk.js": "/asimmaqsood57/Personal-Website-React.git/static/js/2.0fcddfbd.chunk.js",
+    "static/js/2.0fcddfbd.chunk.js.map": "/asimmaqsood57/Personal-Website-React.git/static/js/2.0fcddfbd.chunk.js.map",
+    "index.html": "/asimmaqsood57/Personal-Website-React.git/index.html",
+    "static/css/main.f526cb9e.chunk.css.map": "/asimmaqsood57/Personal-Website-React.git/static/css/main.f526cb9e.chunk.css.map",
+    "static/js/2.0fcddfbd.chunk.js.LICENSE.txt": "/asimmaqsood57/Personal-Website-React.git/static/js/2.0fcddfbd.chunk.js.LICENSE.txt",
+    "static/media/Software Engineers.68167223.jpg": "/asimmaqsood57/Personal-Website-React.git/static/media/Software Engineers.68167223.jpg",
+    "static/media/asim.1ab3f783.pdf": "/asimmaqsood57/Personal-Website-React.git/static/media/asim.1ab3f783.pdf",
+    "static/media/asim.806bd3a7.jpg": "/asimmaqsood57/Personal-Website-React.git/static/media/asim.806bd3a7.jpg",
+    "static/media/bootstrap.f132cb79.png": "/asimmaqsood57/Personal-Website-React.git/static/media/bootstrap.f132cb79.png",
+    "static/media/html5.f61e377f.png": "/asimmaqsood57/Personal-Website-React.git/static/media/html5.f61e377f.png",
+    "static/media/typist.d1ce6834.png": "/asimmaqsood57/Personal-Website-React.git/static/media/typist.d1ce6834.png",
+    "static/media/ui ux.16d9ef0e.png": "/asimmaqsood57/Personal-Website-React.git/static/media/ui ux.16d9ef0e.png",
+    "static/media/what is programming.9c6fa3b4.jpeg": "/asimmaqsood57/Personal-Website-React.git/static/media/what is programming.9c6fa3b4.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1340557d.js",
+    "static/js/2.0fcddfbd.chunk.js",
+    "static/css/main.f526cb9e.chunk.css",
+    "static/js/main.81594e76.chunk.js"
+  ]
+}
