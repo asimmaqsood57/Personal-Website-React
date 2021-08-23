@@ -1,11 +1,20 @@
 import React from "react";
 
 import html from "../images/html5.png";
-
+import java from "../images/java.png";
+import cpp from "../images/c++.png";
+import mysql from "../images/mysql.png";
+import firebase from "../images/firebase.png";
+import express from "../images/express.svg";
+import mongodb from "../images/mongodb.svg";
+import react from "../images/react.png";
 import js from "../images/js.png";
+
+import php from "../images/PHP.svg";
 
 import typist from "../images/typist.png";
 
+import nodejs from "../images/nodejs.png";
 import uiux from "../images/ui ux.png";
 import bootstrap from "../images/bootstrap.png";
 
@@ -17,7 +26,7 @@ export default function Home() {
           <div className="cols col-sm-5 my-3 mx-4 tracking-in-contract">
             <h1 className="my-5">
               Hello! <br />
-              I'm your Full-Stack Web Developer. <br />
+              I'm your Full-Stack Web Developer (MERN). <br />
               <br />
               <a
                 href="https://www.fiverr.com/share/PmEyBw"
@@ -147,6 +156,107 @@ export default function Home() {
               className="skillslogos img-fluid"
             />
             <p className="paragraph">Speed upto 35-40 wpm</p>
+          </div>
+          <div className="cols col-sm-3 my-3 mx-4 center">
+            <h3 className="my-2">Node Js</h3>
+            <img
+              src={nodejs}
+              alt="Html5 logo"
+              className="skillslogos img-fluid"
+            />
+            <p className="paragraph">
+              Node.js is an back-end JavaScript runtime environment that runs on
+              the V8 engine{" "}
+            </p>
+          </div>
+          <div className="cols col-sm-3 my-3 mx-4 center">
+            <h3 className="my-2">React Js</h3>
+            <img
+              src={react}
+              alt="Html5 logo"
+              className="skillslogos img-fluid"
+            />
+            <p className="paragraph">
+              React is a free and open-source front-end JavaScript library for
+              building user interfaces or UI components.
+            </p>
+          </div>
+          <div className="cols col-sm-3 my-3 mx-4 center">
+            <h3 className="my-2">MongoDB</h3>
+            <img
+              src={mongodb}
+              alt="Html5 logo"
+              className="skillslogos img-fluid"
+            />
+            <p className="paragraph">
+              MongoDB is a source-available cross-platform document-oriented
+              database program.
+            </p>
+          </div>
+          <div className="cols col-sm-3 my-3 mx-4 center">
+            <h3 className="my-2">Express Js</h3>
+            <img
+              src={express}
+              alt="Html5 logo"
+              className="skillslogos img-fluid"
+            />
+            <p className="paragraph">
+              Express.js, or simply Express, is a back end web application
+              framework for Node.js.
+            </p>
+          </div>
+          <div className="cols col-sm-3 my-3 mx-4 center">
+            <h3 className="my-2">PHP</h3>
+            <img src={php} alt="Html5 logo" className="skillslogos img-fluid" />
+            <p className="paragraph">
+              PHP is a general-purpose scripting language geared towards web
+              development.
+            </p>
+          </div>
+          <div className="cols col-sm-3 my-3 mx-4 center">
+            <h3 className="my-2">Mysql</h3>
+            <img
+              src={mysql}
+              alt="Html5 logo"
+              className="skillslogos img-fluid"
+            />
+            <p className="paragraph">
+              MySQL is an open-source relational database management system
+            </p>
+          </div>
+
+          <div className="cols col-sm-3 my-3 mx-4 center">
+            <h3 className="my-2">Firebase</h3>
+            <img
+              src={firebase}
+              alt="Html5 logo"
+              className="skillslogos img-fluid"
+            />
+            <p className="paragraph">
+              Firebase is a platform developed by Google for creating mobile and
+              web applications
+            </p>
+          </div>
+
+          <div className="cols col-sm-3 my-3 mx-4 center">
+            <h3 className="my-2">C++</h3>
+            <img src={cpp} alt="Html5 logo" className="skillslogos img-fluid" />
+            <p className="paragraph">
+              c++ is an extension of the C programming language, or "C with
+              Classes".
+            </p>
+          </div>
+          <div className="cols col-sm-3 my-3 mx-4 center">
+            <h3 className="my-2">Java</h3>
+            <img
+              src={java}
+              alt="Html5 logo"
+              className="skillslogos img-fluid"
+            />
+            <p className="paragraph">
+              Java is a high-level, class-based, object-oriented programming
+              language
+            </p>
           </div>
         </div>
       </div>
